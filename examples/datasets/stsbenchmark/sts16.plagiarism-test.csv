@@ -1,0 +1,230 @@
+PAD	PAD	PAD	PAD	1	vector space representation results in the loss of the order which the terms are in the document .	if a term occurs in the document , the value will be non-zero in the vector .
+PAD	PAD	PAD	PAD	1	inheritance in object oriented programming is a way to form new classes using classes that have already been defined .	the peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification .
+PAD	PAD	PAD	PAD	5	to explain further vector space models , basically a document is characterized by a vector .	a document is represented as a vector .
+PAD	PAD	PAD	PAD	3	bayes ’ theorem was names after rev thomas bayes and is a method used in probability theory .	as an official theorem , bayes ' theorem is valid in all universal interpretations of probability .
+PAD	PAD	PAD	PAD	2	if a term appears in the document then its value in the vector is non-zero .	a document is represented as a vector and each dimension corresponds to a separate term .
+PAD	PAD	PAD	PAD	3	• p ( a | b ) is the conditional probability of a , given b .	• p ( b | a ) is the conditional probability of b given a .
+PAD	PAD	PAD	PAD	5	the differing application has a direct influence on what the definition of the term means .	the way that a ' term ' is defined depends on the application .
+PAD	PAD	PAD	PAD	5	thus , the " program " is the optimal plan of action that is being produced .	thus , the " program " is the optimal plan for action that is produced .
+PAD	PAD	PAD	PAD	5	thus , the " program " is the optimal plan for action that is produced .	therefore , the " program " is the optimal plan for action that is produced .
+PAD	PAD	PAD	PAD	4	one of the best known schemes is tf-idf weighting ( see the example below ) .	one of the best known methods is called tf-idf weighting .
+PAD	PAD	PAD	PAD	3	it is " previous " in the sense that it does not take into account any information about b .	it does not take into account any information about b and therefore is considered “ prior ” .
+PAD	PAD	PAD	PAD	1	the algebraic model for representing text documents and objects as vectors of identifiers is called the vector space model .	a possible use for a vector space model is for retrieval and filtering of information .
+PAD	PAD	PAD	PAD	1	secondly to define the value of the optimal solution recursively .	generalise the structure of an optimal solution 2 .
+PAD	PAD	PAD	PAD	1	there are two main approaches for dynamic programming .	there are four steps in dynamic programming : 1 .
+PAD	PAD	PAD	PAD	1	p ( a ) , or the probability that the student is a girl regardless of any other information .	it is mainly used to calculate the probability of one event ’ s outcome given that a previous event happened .
+PAD	PAD	PAD	PAD	4	for instance , a events schedule at an exhibition is sometimes called a program .	for instance , a finalized schedule of events at an exhibition is sometimes called a program .
+PAD	PAD	PAD	PAD	0	this can be useful when the number of times a word appears is not considered important .	one of the most important uses of page rank is its meaning to advertising .
+PAD	PAD	PAD	PAD	4	define value of optimal solution recursively .	characterise structure of an optimal solution .
+PAD	PAD	PAD	PAD	4	it was first used in the smart information retrieval system .	it is used in information retrieval and was first used in the smart information retrieval system .
+PAD	PAD	PAD	PAD	1	in vector space model , the documents from which the information is to be retrieved are represented as vectors .	the vector space model has several disadvantages .
+PAD	PAD	PAD	PAD	1	a term which occurs in the document has a value in the vector of non-zero .	the order in which the terms appear in the document is lost in the vector space representation .
+PAD	PAD	PAD	PAD	1	vector space representation results in the loss of the order which the terms are in the document .	in the vector space model a document is represented as a vector .
+PAD	PAD	PAD	PAD	0	the easiest way to look at inheritance is as an “ … is a kind of ” relationship .	an example of this gain in efficiency is a path-finding problem .
+PAD	PAD	PAD	PAD	2	if a term exists in a document , its value in the vector is not equal to zero .	a document is represented as a vector , with each dimension corresponding to a separate term .
+PAD	PAD	PAD	PAD	0	vector space representation results in the loss of the order which the terms are in the document .	since the pagerank is the most important algorithms which is used in the google engine .
+PAD	PAD	PAD	PAD	2	a document is represented as a vector , with each dimension corresponding to a separate term .	the basic idea is to represent each document as a vector of certain weighted word frequencies .
+PAD	PAD	PAD	PAD	0	thus , the " program " is the optimal plan for action that is produced .	after this , it is using this to pick the best overall path .
+PAD	PAD	PAD	PAD	2	a document is represented as a vector .	the vector space model are the documents which are represented as “ bags of words ” .
+PAD	PAD	PAD	PAD	4	the value of a vector is non-zero if a term occurs in the document .	a term which occurs in the document has a value in the vector of non-zero .
+PAD	PAD	PAD	PAD	1	a page that is linked to by many pages with high pagerank receives a high rank itself .	a link to a page is seen as a vote of support .
+PAD	PAD	PAD	PAD	4	several different ways of computing these values , also known as ( term ) weights , have been developed .	other ways of computing these values , or weights , have been developed .
+PAD	PAD	PAD	PAD	2	a document is represented as a vector , with each dimension corresponding to a separate term .	the value of a vector is non-zero if a term occurs in the document .
+PAD	PAD	PAD	PAD	5	p ( b ) ( a.k.a. the normalizing constant ) is the prior or marginal probability of b .	p ( b ) is the prior or marginal probability of b , and acts as a normalizing constant .
+PAD	PAD	PAD	PAD	1	the pagerank is computed iteratively , and it is found that the pagerank values converge fairly rapidly .	the pagerank depends on the pagerank rating and number of all pages that have links to it .
+PAD	PAD	PAD	PAD	5	in general , we can solve a problem with optimal substructure using a three-step process : 1 .	in a word , we can solve a problem with optimal substructure using a three-step process .
+PAD	PAD	PAD	PAD	1	in the vector space model a document is represented as a vector .	a possible use for a vector space model is for retrieval and filtering of information .
+PAD	PAD	PAD	PAD	5	one of its uses is calculating posterior probabilities given observations .	it is usually used to calculate posterior probabilities given observations .
+PAD	PAD	PAD	PAD	1	if a term appears in the document , the terms value in the vector is non-zero .	each item in the vector represents a different keyword .
+PAD	PAD	PAD	PAD	1	finally , the order in which the terms appear in the document is lost in the vector space representation .	a term which occurs in the document has a value in the vector of non-zero .
+PAD	PAD	PAD	PAD	4	several different ways of computing these values , also known as ( term ) weights , have been developed .	many different ways of calculating these values , also known as ( term ) weights , have been developed .
+PAD	PAD	PAD	PAD	2	to derive the theorem , we begin with the definition of conditional probability .	in probability theory , the prior and conditional probabilities of two random events are related by bayes ' theorem .
+PAD	PAD	PAD	PAD	5	the way that a ' term ' is defined depends on the application .	the definition of term is dependent on the application .
+PAD	PAD	PAD	PAD	5	its first application was in the smart information retrieval system .	it was used in the first time in the smart information retrieval system .
+PAD	PAD	PAD	PAD	0	it doesn 't take into account any information about b , so it is " prior " .	however an object cannot be cast to a class which is no relative of it .
+PAD	PAD	PAD	PAD	1	following this , each web page is given a ranking of 0-10 according to its relevance to a search .	a variation of the pagerank method bases the importance of a webpage on how many visits the page gets .
+PAD	PAD	PAD	PAD	5	thus , the program is the best plan for action that is produced .	thus , the " program " is the optimal plan of action that is being produced .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	they do not have to be written in a computer language .
+PAD	PAD	PAD	PAD	4	these subproblems are not , however , independent .	it is similar to divide and conquer , however is differentiated as its subproblems are not independent .
+PAD	PAD	PAD	PAD	4	the key to dynamic programming is to find the structure of optimal solutions .	in general , dynamic programming is used on optimisation problems , where the most efficient solution is needed .
+PAD	PAD	PAD	PAD	3	when a document is represented as a vector , each dimension corresponds to a separate term .	each dimensions corresponds to a separate terms .
+PAD	PAD	PAD	PAD	4	bayes theorem is a mathematical formula used to calculate conditional probabilities .	bayes ' theorem relates the conditional and marginal probabilities of two random events .
+PAD	PAD	PAD	PAD	1	lucky joe likes to predict the colour of the ball he selects and he is 80 % accurate .	joe records all of his results and about 0.5 % of the time he accidently records the wrong results .
+PAD	PAD	PAD	PAD	0	thus , the program is the best plan for action that is produced .	the other method is the top down approach which is a method that combines memorization and recursion .
+PAD	PAD	PAD	PAD	5	it is usually used to calculate posterior probabilities given observations .	it is usually be used to compute posterior probabilities given observations .
+PAD	PAD	PAD	PAD	5	the methodology takes much less time rather than naive methods .	the method takes much less time than naive methods .
+PAD	PAD	PAD	PAD	5	the methodology takes much less time rather than naive methods .	this is a much quicker method than other more naive methods .
+PAD	PAD	PAD	PAD	5	the definition of term is dependent on the application .	the definition of term depends on the application .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	it is similar to divide and conquer , however is differentiated as its subproblems are not independent .
+PAD	PAD	PAD	PAD	2	characterise structure of an optimal solution .	use these optimal solutions to construct an optimal solution for the original problem .
+PAD	PAD	PAD	PAD	3	the theorem is often used when we have observations and wish to compute posterior probabilities .	it is usually used to calculate posterior probabilities given observations .
+PAD	PAD	PAD	PAD	0	occasionally it is advantageous to differentiate between these uses , as it is not necessarily noticeable from context .	it also provides a way to generalize du to the " is a " relationship between classes .
+PAD	PAD	PAD	PAD	4	construct an optimal solution from computed values .	define value of optimal solution recursively .
+PAD	PAD	PAD	PAD	0	occasionally it is advantageous to differentiate between these uses , as it is not necessarily noticeable from context .	it is similar to divide and conquer , however is differentiated as its subproblems are not independent .
+PAD	PAD	PAD	PAD	2	when a document is represented as a vector , each dimension corresponds to a separate term .	the basic idea is to represent each document as a vector of certain weighted word frequencies .
+PAD	PAD	PAD	PAD	3	when a document is represented as a vector , each dimension corresponds to a separate term .	each dimension corresponds to a separate term .
+PAD	PAD	PAD	PAD	0	mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .	however an object cannot be cast to a class which is no relative of it .
+PAD	PAD	PAD	PAD	5	whilst bayesians describe probabilities in terms of beliefs and degrees of uncertainty .	at the same time , bayesians describe probabilities in terms of beliefs and degrees of uncertainty .
+PAD	PAD	PAD	PAD	5	it is used in information filtering , information retrieval , indexing and relevancy rankings .	it is used in information filtering , indexing , relevancy rankings and information retrieval .
+PAD	PAD	PAD	PAD	1	in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .	bayes ' theorem is useful in evaluating the result of drug tests .
+PAD	PAD	PAD	PAD	1	outbound , links from your page to others .	dangling , links to a page which has no links to others .
+PAD	PAD	PAD	PAD	1	vector space representation results in the loss of the order which the terms are in the document .	in vector space model , the documents from which the information is to be retrieved are represented as vectors .
+PAD	PAD	PAD	PAD	3	in computer science ; dynamic programming is a way of solving problems consist of overlapping subproblems and optimal substructure .	however , the key in dynamic programming is to determine the structure of optimal solutions .
+PAD	PAD	PAD	PAD	1	if a term appears in the document , the terms value in the vector is non-zero .	vector space representation results in the loss of the order which the terms are in the document .
+PAD	PAD	PAD	PAD	1	in vector space model , the documents from which the information is to be retrieved are represented as vectors .	finally , the order in which the terms appear in the document is lost in the vector space representation .
+PAD	PAD	PAD	PAD	3	for instance , a finalized schedule of events at an exhibition is sometimes called a program .	the typical example could be of a finalized schedule of events at an exhibition .
+PAD	PAD	PAD	PAD	5	several different ways of computing these values , also known as ( term ) weights , have been developed .	several different ways of computing these values , additionally known as ( term ) weights , have been developed .
+PAD	PAD	PAD	PAD	5	if a term exists in a document , its value in the vector is not equal to zero .	if a term appears in the document then its value in the vector is non-zero .
+PAD	PAD	PAD	PAD	5	a hyperlink to a page counts as a vote of support .	a link to a page is seen as a vote of support .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	the main problem is divided into sub problems which are solved and stored for future use .
+PAD	PAD	PAD	PAD	0	most of these languages provide an “ extend ” keyword , which is used to subclass another .	for example , a program could exist to model different forms of transport .
+PAD	PAD	PAD	PAD	5	for instance , a finalized schedule of events at an exhibition is sometimes called a program .	for example , a schedule of events at an exhibition is sometimes called a programme .
+PAD	PAD	PAD	PAD	1	the value of a vector is non-zero if a term occurs in the document .	each document is a vector where each word is a dimension .
+PAD	PAD	PAD	PAD	4	the theorem is often used when we have observations and wish to compute posterior probabilities .	it is often used to calculate posterior probabilities given observations .
+PAD	PAD	PAD	PAD	1	other possible uses for vector space models are indexing and also to rank the relevancy of differing documents .	in this classic model the term specific weights in the document vectors are products of local and global parameters .
+PAD	PAD	PAD	PAD	1	the correct answer can be computed using bayes ' theorem .	bayes ' theorem is useful in evaluating the result of drug tests .
+PAD	PAD	PAD	PAD	3	• p ( b | a ) is the conditional probability of b given a .	p ( a | b ) is the conditional probability of a , given b .
+PAD	PAD	PAD	PAD	3	since the pagerank is the most important algorithms which is used in the google engine .	the pagerank is a recursive algorithm used by google to determine which webpages are more important than others .
+PAD	PAD	PAD	PAD	5	nevertheless , the patent is assigned to the university of stanford and not to google .	however , the patent is assigned to stanford university and not to google .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	it is therefore used to create relationships between one object and another .
+PAD	PAD	PAD	PAD	3	in the vector space model a document is represented as a vector .	a document is represented as a vector , and each dimension corresponds to a separate term .
+PAD	PAD	PAD	PAD	4	p ( b ) is the prior or marginal probability of b , and acts to normalise the probability .	p ( b ) ( a.k.a. the normalizing constant ) is the prior or marginal probability of b .
+PAD	PAD	PAD	PAD	0	this can be useful when the number of times a word appears is not considered important .	the easiest way to look at inheritance is as an “ … is a kind of ” relationship .
+PAD	PAD	PAD	PAD	4	in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .	bayes ' theorem relates the conditional and marginal probabilities of two random events .
+PAD	PAD	PAD	PAD	5	the definition of term depends on the application .	the definition of a term depends on the application .
+PAD	PAD	PAD	PAD	2	break up the problem different smaller subproblems .	a problem with overlapping subproblems means that the same subproblems may be used to solve many different larger problems .
+PAD	PAD	PAD	PAD	5	inheritance is a method of forming new classes using predefined classes .	inheritance in object oriented programming is a way to form new classes using classes that have already been defined .
+PAD	PAD	PAD	PAD	3	so the same rule applies with keywords and indeed longer phrases .	single words , keywords and occasionally longer phrases are used for terms .
+PAD	PAD	PAD	PAD	0	there is also conditional probability which is usually interested in the way variables relate to each other .	the pagerank is a recursive algorithm used by google to determine which webpages are more important than others .
+PAD	PAD	PAD	PAD	5	thus , the program is the best plan for action that is produced .	thus , the " program " is the optimal plan for action that is produced .
+PAD	PAD	PAD	PAD	3	inheritance is a basic concept in object oriented programming .	inheritance in object oriented programming is a way to form new classes using classes that have already been defined .
+PAD	PAD	PAD	PAD	4	programming , in this sense , means finding an acceptable plan of action .	programming , in this sense , means finding an acceptable plan , an algorithm .
+PAD	PAD	PAD	PAD	4	the vector space model has some limitations : 1 .	the vector space model has several disadvantages .
+PAD	PAD	PAD	PAD	4	using the vector space model for information retrieval models all pages and queries as high-dimensional sparse vectors .	a possible use for a vector space model is for retrieval and filtering of information .
+PAD	PAD	PAD	PAD	4	one of the most famous schemes is tf-idf weighting .	one of the best known schemes is tf-idf ( term frequency-inverse document frequency ) weighting .
+PAD	PAD	PAD	PAD	3	a document is represented as a vector , with each dimension corresponding to a separate term .	a document has representation as a vector .
+PAD	PAD	PAD	PAD	4	vector space representation results in the loss of the order which the terms are in the document .	the order in which terms appear in the document is lost in a vector space representation .
+PAD	PAD	PAD	PAD	2	p ( a ) is the probability of the student being a girl ( which is 2 / 5 ) .	what is the probability this student is a girl ?
+PAD	PAD	PAD	PAD	1	the basic idea is to represent each document as a vector of certain weighted word frequencies .	if a term appears in the document , the terms value in the vector is non-zero .
+PAD	PAD	PAD	PAD	5	therefore , the " program " is the optimal plan for action that is produced .	the " program " is the optimal plan for action that is produced .
+PAD	PAD	PAD	PAD	2	this is highly used in dynamic programming .	there are four steps in dynamic programming : 1 .
+PAD	PAD	PAD	PAD	4	other ways of computing these values , or weights , have been developed .	many different methods of calculating these values , sometimes known as ( term ) weights , have been developed .
+PAD	PAD	PAD	PAD	4	it is usually be used to compute posterior probabilities given observations .	it is used to compute posterior probabilities given observations .
+PAD	PAD	PAD	PAD	3	in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .	bayes theorem is a mathematical formula used to calculate conditional probabilities .
+PAD	PAD	PAD	PAD	1	p ( b ) is the prior or marginal probability of b , and acts as a normalizing constant .	p ( b | a ) is the conditional probability of b given a .
+PAD	PAD	PAD	PAD	3	a website ’ s page rank , is how ‘ important ’ it is on the web .	a variation of the pagerank method bases the importance of a webpage on how many visits the page gets .
+PAD	PAD	PAD	PAD	4	in computer science ; dynamic programming is a way of solving problems consist of overlapping subproblems and optimal substructure .	dynamic programming is a very powerful mathematical technique , often utilised in programming , for solving optimization problems .
+PAD	PAD	PAD	PAD	4	the most popular is tf-idf weighting .	one of the most famous schemes is tf-idf weighting .
+PAD	PAD	PAD	PAD	1	this method is used in the google toolbar , which reports back actual site visits to google .	in order to prevent spamming , google releases little information on the way in which a pagerank is calculated .
+PAD	PAD	PAD	PAD	0	to achieve this , the programmer has to note generalisations and similarities about various aspects of the program .	mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .
+PAD	PAD	PAD	PAD	4	construct an optimal solution from computed values .	the last point would be to construct an optimal solution from the computed values .
+PAD	PAD	PAD	PAD	3	if the term doesn ’ t occur within the document , the value in the vector is zero .	if a term appears in the document , the terms value in the vector is non-zero .
+PAD	PAD	PAD	PAD	4	this is a much quicker method than other more naive methods .	the method takes much less time than naive methods .
+PAD	PAD	PAD	PAD	1	p ( b ) is the prior or marginal probability of b , and acts to normalise the probability .	p ( a ) , or the probability that the student is a girl regardless of any other information .
+PAD	PAD	PAD	PAD	4	inheritance in object oriented programming is a way to form new classes using classes that have already been defined .	inheritance in object oriented programming is where a new class is formed using classes which have allready been defined .
+PAD	PAD	PAD	PAD	3	they also inherit the attributes and methods of its superclass .	the new classes are called derived classes and they inherit the behaviours and attributes of the base classes .
+PAD	PAD	PAD	PAD	2	a term which occurs in the document has a value in the vector of non-zero .	a document is represented as a vector , with each dimension corresponding to a separate term .
+PAD	PAD	PAD	PAD	5	if a term appears in the document , the terms value in the vector is non-zero .	a term which occurs in the document has a value in the vector of non-zero .
+PAD	PAD	PAD	PAD	1	the order in which terms appear in the document is lost in a vector space representation .	in vector space model , the documents from which the information is to be retrieved are represented as vectors .
+PAD	PAD	PAD	PAD	5	the vector space model has some limitations : 1 .	limitation : there is some limitation of vector space model .
+PAD	PAD	PAD	PAD	4	however , the vector space model has limitations .	the limitations of the vector space model are thus .
+PAD	PAD	PAD	PAD	0	the method can be abused when people deliberately link to sites in order to raise a site 's pagerank .	mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .
+PAD	PAD	PAD	PAD	2	when a document is represented as a vector , each dimension corresponds to a separate term .	to explain further vector space models , basically a document is characterized by a vector .
+PAD	PAD	PAD	PAD	1	the basic idea is to represent each document as a vector of certain weighted word frequencies .	a term which occurs in the document has a value in the vector of non-zero .
+PAD	PAD	PAD	PAD	4	programming , in this sense , means finding an acceptable plan of action .	programming means finding a plan of action .
+PAD	PAD	PAD	PAD	0	google ’ s payoff is that it gets to track the behaviour of actual users .	after this , it is using this to pick the best overall path .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	there is also conditional probability which is usually interested in the way variables relate to each other .
+PAD	PAD	PAD	PAD	3	bayes ’ theorem was names after rev thomas bayes and is a method used in probability theory .	as a formal theorem bayes theorem is valid in all common interpretations of probability .
+PAD	PAD	PAD	PAD	4	dynamic programming solves problems by combining the solutions of subproblems .	the key to dynamic programming is to find the structure of optimal solutions .
+PAD	PAD	PAD	PAD	2	terms are basically the words or any indexing unit used to identify the contents of a text .	in this classic model the term specific weights in the document vectors are products of local and global parameters .
+PAD	PAD	PAD	PAD	2	the vector space model are the documents which are represented as “ bags of words ” .	in vector space model , the documents from which the information is to be retrieved are represented as vectors .
+PAD	PAD	PAD	PAD	0	thus , the " program " is the optimal plan of action that is being produced .	the easiest way to look at inheritance is as an “ … is a kind of ” relationship .
+PAD	PAD	PAD	PAD	0	to achieve this , the programmer has to note generalisations and similarities about various aspects of the program .	the advantage being the less time consumption in comparison to other amateur methods .
+PAD	PAD	PAD	PAD	4	subclasses are said to extend or specialise their superclasses .	subclasses are said to ‘ extend ’ superclasses .
+PAD	PAD	PAD	PAD	3	it is also called the posterior probability because it is derived from or depends upon the specified value of b .	it is also called the subsequent probability because it is derived from or depends upon the specified value of b .
+PAD	PAD	PAD	PAD	0	this can be useful when the number of times a word appears is not considered important .	it is mainly used to calculate the probability of one event ’ s outcome given that a previous event happened .
+PAD	PAD	PAD	PAD	1	java allows object inheritance .	inheritance is one of the basic concepts of object oriented programming .
+PAD	PAD	PAD	PAD	0	mathematicians use the word to describe a set of rules which anyone can follow to solve a problem .	instead , a new object is made to inherit properties of objects which already exist .
+PAD	PAD	PAD	PAD	1	virtual attributes and methods can be shadowed / overridden .	in java all attributes and methods are implicitly virtual .
+PAD	PAD	PAD	PAD	3	one of the best known schemes is tf-idf weighting , proposed by salton , wong and yang .	tf-idf weighting is one of the most well known schemes .
+PAD	PAD	PAD	PAD	1	in the vector space model a document is represented as a vector .	the vector space model are the documents which are represented as “ bags of words ” .
+PAD	PAD	PAD	PAD	3	the vector space model has the following limitations : 1 .	limitation : there is some limitation of vector space model .
+PAD	PAD	PAD	PAD	3	it is intended to help reuse existing code with little or no modification .	the idea of inheritance is to reuse the existing code with little or no modification at all .
+PAD	PAD	PAD	PAD	4	it is often used to compute posterior probabilities given observations .	the theorem is often used when we have observations and wish to compute posterior probabilities .
+PAD	PAD	PAD	PAD	2	when any sub-problem is met again , it can be found and re-used to solve another problem .	it was intended to allow existing code to be used again with minimal or no alteration .
+PAD	PAD	PAD	PAD	1	the peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification .	in object oriented programming inheritance is also dependant on access level modifiers .
+PAD	PAD	PAD	PAD	4	every dimension is precisely related to a separate term .	each and every dimension corresponds to a separate term .
+PAD	PAD	PAD	PAD	0	the other method is the top down approach which is a method that combines memorization and recursion .	the easiest way to look at inheritance is as an “ … is a kind of ” relationship .
+PAD	PAD	PAD	PAD	0	p ( a ) , or the probability that the student is a girl regardless of any other information .	later versions of pagerank ( see the below formulas ) would assume a probability distribution between 0 and 1 .
+PAD	PAD	PAD	PAD	1	when a document is represented as a vector , each dimension corresponds to a separate term .	the value of a vector is non-zero if a term occurs in the document .
+PAD	PAD	PAD	PAD	0	to achieve this , the programmer has to note generalisations and similarities about various aspects of the program .	terms are basically the words or any indexing unit used to identify the contents of a text .
+PAD	PAD	PAD	PAD	2	the vector space model are the documents which are represented as “ bags of words ” .	the limitations of the vector space model are thus .
+PAD	PAD	PAD	PAD	1	the vector space model is one of these methods , and it is an algebraic model .	in vector space model , the documents from which the information is to be retrieved are represented as vectors .
+PAD	PAD	PAD	PAD	5	the vector space model has the following limitations : 1 .	the vector space model has some limitations : 1 .
+PAD	PAD	PAD	PAD	0	however an object cannot be cast to a class which is no relative of it .	here by meaning that a program can be an optimal plan for the produced action .
+PAD	PAD	PAD	PAD	3	the vector is then constucted of the frequency of eacher word ( dimension ) .	the basic idea is to represent each document as a vector of certain weighted word frequencies .
+PAD	PAD	PAD	PAD	5	typically terms are single words , keywords , or longer phrases .	typically terms are keywords , single words or longer phrases .
+PAD	PAD	PAD	PAD	5	it does not take into account any information about b and therefore is considered “ prior ” .	it doesn 't take into account any information about b , so it is " prior " .
+PAD	PAD	PAD	PAD	3	the pagerank depends on the pagerank rating and number of all pages that have links to it .	of a particular page is roughly based upon the quantity of inbound links as well as the pagerank ?
+PAD	PAD	PAD	PAD	4	construct an optimal solution from computed values .	use these optimal solutions to construct an optimal solution for the original problem .
+PAD	PAD	PAD	PAD	3	single words , keywords and occasionally longer phrases are used for terms .	the number of unique words in the vocabulary denotes the dimensionality , if words are used for the terms .
+PAD	PAD	PAD	PAD	1	the vector space model has several disadvantages .	a document has representation as a vector .
+PAD	PAD	PAD	PAD	4	every dimension is precisely related to a separate term .	a document is represented as a vector , with each dimension corresponding to a separate term .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	occasionally it is advantageous to differentiate between these uses , as it is not necessarily noticeable from context .
+PAD	PAD	PAD	PAD	2	this is highly used in dynamic programming .	the key to dynamic programming is to find the structure of optimal solutions .
+PAD	PAD	PAD	PAD	3	the idea of inheritance is to reuse the existing code with little or no modification at all .	the idea of inheritance in oop refers to the formation of new classes with the already existing classes .
+PAD	PAD	PAD	PAD	1	the peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification .	however , the key in dynamic programming is to determine the structure of optimal solutions .
+PAD	PAD	PAD	PAD	5	a document is represented as a vector and each dimension corresponds to a separate term .	when a document is represented as a vector , each dimension corresponds to a separate term .
+PAD	PAD	PAD	PAD	3	it is valid in all common interpretations of probability .	as an official theorem , bayes ' theorem is valid in all universal interpretations of probability .
+PAD	PAD	PAD	PAD	1	the order in which the terms appear in the document is lost in the vector space representation .	if the term doesn ’ t occur within the document , the value in the vector is zero .
+PAD	PAD	PAD	PAD	5	since it is a formal theorem , bayes ' theorem holds in all popular interpretations of probability .	as a formal theorem , bayes ' theorem is valid in all common interpretations of probability .
+PAD	PAD	PAD	PAD	5	the methodology takes much less time rather than naive methods .	the method is more effiecent than naive methods .
+PAD	PAD	PAD	PAD	4	the most popular is tf-idf weighting .	one of the best known schemes is tf-idf ( term frequency-inverse document frequency ) weighting .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	this can be useful when the number of times a word appears is not considered important .
+PAD	PAD	PAD	PAD	3	the value of a vector is non-zero if a term occurs in the document .	if the term doesn ’ t occur within the document , the value in the vector is zero .
+PAD	PAD	PAD	PAD	1	the value of a vector is non-zero if a term occurs in the document .	the order in which the terms appear in the document is lost in the vector space representation .
+PAD	PAD	PAD	PAD	0	the way that a ' term ' is defined depends on the application .	the easiest way to look at inheritance is as an “ … is a kind of ” relationship .
+PAD	PAD	PAD	PAD	1	the similarity measures largely identify the retrieval efficiency of a particular information retrieval system .	it is used in information retrieval and was first used in the smart information retrieval system .
+PAD	PAD	PAD	PAD	5	typically terms are keywords , single words or longer phrases .	single words , keywords and occasionally longer phrases are used for terms .
+PAD	PAD	PAD	PAD	1	the vector space model is one of these methods , and it is an algebraic model .	the vector space model has the following limitations : 1 .
+PAD	PAD	PAD	PAD	0	therefore , the " program " is the optimal plan for action that is produced .	since the pagerank is the most important algorithms which is used in the google engine .
+PAD	PAD	PAD	PAD	1	• p ( a | b ) is the conditional probability of a , given b .	p ( b ) ( a.k.a. the normalizing constant ) is the prior or marginal probability of b .
+PAD	PAD	PAD	PAD	5	construct an optimal solution from computed values .	generate the optimal solution of these computed values
+PAD	PAD	PAD	PAD	4	the theorem is often used when we have observations and wish to compute posterior probabilities .	it is usually be used to compute posterior probabilities given observations .
+PAD	PAD	PAD	PAD	1	generalise the structure of an optimal solution 2 .	use these optimal solutions to construct an optimal solution for the original problem .
+PAD	PAD	PAD	PAD	1	the vector space model is one of these methods , and it is an algebraic model .	the vector space model has several disadvantages .
+PAD	PAD	PAD	PAD	1	if the term doesn ’ t occur within the document , the value in the vector is zero .	finally , the order in which the terms appear in the document is lost in the vector space representation .
+PAD	PAD	PAD	PAD	3	when a document is represented as a vector , each dimension corresponds to a separate term .	in the vector space model a document is represented as a vector .
+PAD	PAD	PAD	PAD	4	overlapping subproblems means that the same subproblems are used to solve many different larger problems .	a problem with overlapping subproblems means that the same subproblems may be used to solve many different larger problems .
+PAD	PAD	PAD	PAD	2	the differing application has a direct influence on what the definition of the term means .	terms are basically the words or any indexing unit used to identify the contents of a text .
+PAD	PAD	PAD	PAD	4	the differing application has a direct influence on what the definition of the term means .	the definition of term is dependent on the application .
+PAD	PAD	PAD	PAD	3	inheritance is an important feature in object orientated programming .	the peropos of inheritance in object oriented programming is to minimize the reuse of existing code without modification .
+PAD	PAD	PAD	PAD	1	in probability theory , the prior and conditional probabilities of two random events are related by bayes ' theorem .	bayes ' theorem is a theorem of probability theory originally stated by the reverend thomas bayes .
+PAD	PAD	PAD	PAD	0	without a proof of correctness , such an algorithm is likely to fail .	however an object cannot be cast to a class which is no relative of it .
+PAD	PAD	PAD	PAD	3	so in essence it is a popularity contest between webpages .	it is essentially a popularity meter .
+PAD	PAD	PAD	PAD	5	several different ways of computing these values , additionally known as ( term ) weights , have been developed .	several different ways have been developed of calculating these values ( also known as term weights ) .
+PAD	PAD	PAD	PAD	0	the other method is the top down approach which is a method that combines memorization and recursion .	since the pagerank is the most important algorithms which is used in the google engine .
+PAD	PAD	PAD	PAD	1	the order in which terms appear in the document is lost in a vector space representation .	if a term occurs in the document , the value will be non-zero in the vector .
+PAD	PAD	PAD	PAD	4	the method takes much less time than naive methods .	and thus the method takes much less time than more naive methods .
+PAD	PAD	PAD	PAD	1	inheritance is one of the basic concepts of object oriented programming .	in object oriented programming inheritance is also dependant on access level modifiers .
+PAD	PAD	PAD	PAD	2	as a formal theorem , bayes ' theorem is valid in all common interpretations of probability .	bayes theorem can be used to compute the probability that a proposed diagnosis is correct .
+PAD	PAD	PAD	PAD	0	thus , the program is the best plan for action that is produced .	after this , it is using this to pick the best overall path .
+PAD	PAD	PAD	PAD	3	the basic idea is to represent each document as a vector of certain weighted word frequencies .	in the vector space model a document is represented as a vector .
+PAD	PAD	PAD	PAD	3	object oriented programming is a style of programming that supports encapsulation , inheritance , and polymorphism .	inheritance is a basic concept in object oriented programming .
+PAD	PAD	PAD	PAD	3	the vector space model has some limitations : 1 .	the limitations of the vector space model are thus .
+PAD	PAD	PAD	PAD	2	it is mainly used to calculate the probability of one event ’ s outcome given that a previous event happened .	it is also called the posterior probability because it is derived from or depends upon the specified value of b .
+PAD	PAD	PAD	PAD	3	the theorem is often used when we have observations and wish to compute posterior probabilities .	bayes theorem can be used to compute the probability that a proposed diagnosis is correct .
+PAD	PAD	PAD	PAD	0	this can be useful when the number of times a word appears is not considered important .	it has no relationship to computer programming ; instead it is a process of finding a satisfactory algorithm .
+PAD	PAD	PAD	PAD	4	in probability theory , bayes ' theorem relates the conditional and marginal probabilities of two random events .	in probability theory , the prior and conditional probabilities of two random events are related by bayes ' theorem .
+PAD	PAD	PAD	PAD	3	one of the best known schemes is tf-idf weighting ( see the example below ) .	one of the best known schemes is tf-idf weighting , proposed by salton , wong and yang .
+PAD	PAD	PAD	PAD	3	it is therefore used to create relationships between one object and another .	it also provides a way to generalize du to the " is a " relationship between classes .
+PAD	PAD	PAD	PAD	0	then , using this , the best overall path can be found , thereby demonstrating the dynamic programming principle .	the further down an inheritance tree you get , the more specific the classes become .
+PAD	PAD	PAD	PAD	3	when a document is represented as a vector , each dimension corresponds to a separate term .	a document has representation as a vector .
+PAD	PAD	PAD	PAD	0	to achieve this , the programmer has to note generalisations and similarities about various aspects of the program .	it is similar to divide and conquer , however is differentiated as its subproblems are not independent .
+PAD	PAD	PAD	PAD	0	the further down an inheritance tree you get , the more specific the classes become .	the differing application has a direct influence on what the definition of the term means .
+PAD	PAD	PAD	PAD	2	the algebraic model for representing text documents and objects as vectors of identifiers is called the vector space model .	the limitations of the vector space model are thus .
+PAD	PAD	PAD	PAD	5	in general , dynamic programming is used on optimisation problems , where the most efficient solution is needed .	however , the key in dynamic programming is to determine the structure of optimal solutions .
+PAD	PAD	PAD	PAD	2	it is used in information filtering , information retrieval , indexing and relevancy rankings .	a possible use for a vector space model is for retrieval and filtering of information .
+PAD	PAD	PAD	PAD	0	the easiest way to look at inheritance is as an “ … is a kind of ” relationship .	it also provides a way to generalize du to the " is a " relationship between classes .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	it is " prior " in the sense that it does not take into account any information about b .
+PAD	PAD	PAD	PAD	0	this means that inheritance is used when types have common factors and these would be put into the superclass .	the method can be abused when people deliberately link to sites in order to raise a site 's pagerank .

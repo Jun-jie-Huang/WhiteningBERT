@@ -1,0 +1,11 @@
+pillow==5.4.1
+torch==1.6.0
+transformers==4.3.2
+tensorboard==1.15.0
+tqdm
+scikit-learn
+scipy
+gpustat
+nltk
+sentencepiece
+matplotlib

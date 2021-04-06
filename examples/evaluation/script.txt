@@ -1,0 +1,41 @@
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name bert-base-uncased 2>&1 | tee logs/intra_div/intra_div_white_ln1_bert-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name roberta-base 2>&1 | tee logs/intra_div/intra_div_white_ln1_roberta-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name bert-base-multilingual-uncased 2>&1 | tee logs/intra_div/intra_div_white_ln1_bertmultilingual-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name sentence-transformers/LaBSE 2>&1 | tee logs/intra_div/intra_div_white_ln1_labse.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name microsoft/layoutlm-base-uncased 2>&1 | tee logs/intra_div/intra_div_white_ln1_layoutlm-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name SpanBERT/spanbert-base-cased 2>&1 | tee logs/intra_div/intra_div_white_ln1_spanbert-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name microsoft/deberta-base 2>&1 | tee logs/intra_div/intra_div_white_ln1_deberta-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name google/electra-base-discriminator 2>&1 | tee logs/intra_div/intra_div_white_ln1_electra-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name albert-base-v1 2>&1 | tee logs/intra_div/intra_div_white_ln1_albert-base-v1.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --whitening --encoder_name google/mobilebert-uncased 2>&1 | tee logs/intra_div/intra_div_white_ln1_mobilebert-base.log
+
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name bert-base-uncased 2>&1 | tee logs/intra_sim/intra_div_ln1_bert-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name roberta-base 2>&1 | tee logs/intra_div/intra_div_ln1_roberta-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name bert-base-multilingual-uncased 2>&1 | tee logs/intra_div/intra_div_ln1_bertmultilingual-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name sentence-transformers/LaBSE 2>&1 | tee logs/intra_div/intra_div_ln1_labse.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name microsoft/layoutlm-base-uncased 2>&1 | tee logs/intra_div/intra_div_ln1_layoutlm-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name SpanBERT/spanbert-base-cased 2>&1 | tee logs/intra_div/intra_div_ln1_spanbert-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name microsoft/deberta-base 2>&1 | tee logs/intra_div/intra_div_ln1_deberta-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name google/electra-base-discriminator 2>&1 | tee logs/intra_div/intra_div_ln1_electra-base.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name albert-base-v1 2>&1 | tee logs/intra_div/intra_div_ln1_albert-base-v1.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name google/mobilebert-uncased 2>&1 | tee logs/intra_div/intra_div_ln1_mobilebert-base.log
+
+
+
+
+
+
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name bert-large-uncased 2>&1 | tee logs/intra_div/intra_div_ln1_bert-large.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name roberta-large 2>&1 | tee logs/intra_div/intra_div_ln1_roberta-large.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name albert-large-v1 2>&1 | tee logs/intra_div/intra_div_ln1_albert-large-v1.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name SpanBERT/spanbert-large-cased 2>&1 | tee logs/intra_div/intra_div_ln1_spanbert-large.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name microsoft/DialogRPT-human-vs-rand 2>&1 | tee logs/intra_div/intra_div_ln1_dialogrpt.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name microsoft/deberta-large 2>&1 | tee logs/intra_div/intra_div_ln1_deberta-large.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name google/mobilebert-uncased 2>&1 | tee logs/intra_div/intra_div_ln1_mobilebert24.log
+CUDA_VISIBLE_DEVICES="0" python evaluation_stseval_intra_similarity.py --pooling aver --encoder_name microsoft/layoutlm-large-uncased 2>&1 | tee logs/intra_div/intra_div_ln1_layoutlm-large.log
+
+
+
+
+
+CUDA_VISIBLE_DEVICES="1" python evaluation_stseval_intra_divilarity_layer2.py --pooling aver --encoder_name bert-base-uncased 2>&1 | tee logs/intra_div/gourp_intra_div_ln2_bert-base.log
